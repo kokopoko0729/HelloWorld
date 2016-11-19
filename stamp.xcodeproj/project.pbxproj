@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF3983811DA8E239006503FC /* 書き出し２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF3983801DA8E239006503FC /* 書き出し２.jpg */; };
+		AF3983831DA8E348006503FC /* 書き出し１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF3983821DA8E348006503FC /* 書き出し１.jpg */; };
+		AF3983851DA8E374006503FC /* 書き出し３.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF3983841DA8E374006503FC /* 書き出し３.jpg */; };
+		AF3983871DA8E3E1006503FC /* 書き出し４.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF3983861DA8E3E1006503FC /* 書き出し４.jpg */; };
+		AFBC7FAA1D9656D3000C41CD /* ラッケト.png in Resources */ = {isa = PBXBuildFile; fileRef = AFBC7FA91D9656D3000C41CD /* ラッケト.png */; };
+		AFBC7FAC1D9668D2000C41CD /* MemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBC7FAB1D9668D2000C41CD /* MemoViewController.swift */; };
 		AFBCD5C71D84040500A9AB15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD5C61D84040500A9AB15 /* AppDelegate.swift */; };
 		AFBCD5C91D84040500A9AB15 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD5C81D84040500A9AB15 /* ViewController.swift */; };
 		AFBCD5CC1D84040500A9AB15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFBCD5CA1D84040500A9AB15 /* Main.storyboard */; };
@@ -14,6 +20,11 @@
 		AFBCD5D11D84040500A9AB15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFBCD5CF1D84040500A9AB15 /* LaunchScreen.storyboard */; };
 		AFBCD5DC1D84040500A9AB15 /* stampTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD5DB1D84040500A9AB15 /* stampTests.swift */; };
 		AFBCD5E71D84040500A9AB15 /* stampUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD5E61D84040500A9AB15 /* stampUITests.swift */; };
+		AFBCD5F51D8404A200A9AB15 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = AFBCD5F41D8404A200A9AB15 /* background.png */; };
+		AFBCD5F71D84141F00A9AB15 /* hana.png in Resources */ = {isa = PBXBuildFile; fileRef = AFBCD5F61D84141F00A9AB15 /* hana.png */; };
+		AFBCD5F91D8414A800A9AB15 /* hoshi.png in Resources */ = {isa = PBXBuildFile; fileRef = AFBCD5F81D8414A800A9AB15 /* hoshi.png */; };
+		AFBCD5FB1D8414DE00A9AB15 /* onpu.png in Resources */ = {isa = PBXBuildFile; fileRef = AFBCD5FA1D8414DE00A9AB15 /* onpu.png */; };
+		AFBCD5FD1D84150900A9AB15 /* shitumon.png in Resources */ = {isa = PBXBuildFile; fileRef = AFBCD5FC1D84150900A9AB15 /* shitumon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +45,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AF3983801DA8E239006503FC /* 書き出し２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "書き出し２.jpg"; sourceTree = "<group>"; };
+		AF3983821DA8E348006503FC /* 書き出し１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "書き出し１.jpg"; sourceTree = "<group>"; };
+		AF3983841DA8E374006503FC /* 書き出し３.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "書き出し３.jpg"; sourceTree = "<group>"; };
+		AF3983861DA8E3E1006503FC /* 書き出し４.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "書き出し４.jpg"; sourceTree = "<group>"; };
+		AFBC7FA91D9656D3000C41CD /* ラッケト.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ラッケト.png"; sourceTree = "<group>"; };
+		AFBC7FAB1D9668D2000C41CD /* MemoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemoViewController.swift; sourceTree = "<group>"; };
 		AFBCD5C31D84040500A9AB15 /* stamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = stamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFBCD5C61D84040500A9AB15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFBCD5C81D84040500A9AB15 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +64,11 @@
 		AFBCD5E21D84040500A9AB15 /* stampUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stampUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFBCD5E61D84040500A9AB15 /* stampUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stampUITests.swift; sourceTree = "<group>"; };
 		AFBCD5E81D84040500A9AB15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFBCD5F41D8404A200A9AB15 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		AFBCD5F61D84141F00A9AB15 /* hana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hana.png; sourceTree = "<group>"; };
+		AFBCD5F81D8414A800A9AB15 /* hoshi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hoshi.png; sourceTree = "<group>"; };
+		AFBCD5FA1D8414DE00A9AB15 /* onpu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = onpu.png; sourceTree = "<group>"; };
+		AFBCD5FC1D84150900A9AB15 /* shitumon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shitumon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,9 +122,20 @@
 				AFBCD5C61D84040500A9AB15 /* AppDelegate.swift */,
 				AFBCD5C81D84040500A9AB15 /* ViewController.swift */,
 				AFBCD5CA1D84040500A9AB15 /* Main.storyboard */,
+				AF3983861DA8E3E1006503FC /* 書き出し４.jpg */,
+				AF3983841DA8E374006503FC /* 書き出し３.jpg */,
+				AF3983821DA8E348006503FC /* 書き出し１.jpg */,
+				AF3983801DA8E239006503FC /* 書き出し２.jpg */,
+				AFBC7FA91D9656D3000C41CD /* ラッケト.png */,
+				AFBCD5FC1D84150900A9AB15 /* shitumon.png */,
+				AFBCD5FA1D8414DE00A9AB15 /* onpu.png */,
+				AFBCD5F81D8414A800A9AB15 /* hoshi.png */,
+				AFBCD5F61D84141F00A9AB15 /* hana.png */,
+				AFBCD5F41D8404A200A9AB15 /* background.png */,
 				AFBCD5CD1D84040500A9AB15 /* Assets.xcassets */,
 				AFBCD5CF1D84040500A9AB15 /* LaunchScreen.storyboard */,
 				AFBCD5D21D84040500A9AB15 /* Info.plist */,
+				AFBC7FAB1D9668D2000C41CD /* MemoViewController.swift */,
 			);
 			path = stamp;
 			sourceTree = "<group>";
@@ -230,7 +263,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				AFBCD5D11D84040500A9AB15 /* LaunchScreen.storyboard in Resources */,
+				AF3983871DA8E3E1006503FC /* 書き出し４.jpg in Resources */,
+				AFBCD5F91D8414A800A9AB15 /* hoshi.png in Resources */,
+				AFBCD5F71D84141F00A9AB15 /* hana.png in Resources */,
+				AFBCD5F51D8404A200A9AB15 /* background.png in Resources */,
+				AFBC7FAA1D9656D3000C41CD /* ラッケト.png in Resources */,
+				AF3983831DA8E348006503FC /* 書き出し１.jpg in Resources */,
 				AFBCD5CE1D84040500A9AB15 /* Assets.xcassets in Resources */,
+				AF3983811DA8E239006503FC /* 書き出し２.jpg in Resources */,
+				AFBCD5FB1D8414DE00A9AB15 /* onpu.png in Resources */,
+				AF3983851DA8E374006503FC /* 書き出し３.jpg in Resources */,
+				AFBCD5FD1D84150900A9AB15 /* shitumon.png in Resources */,
 				AFBCD5CC1D84040500A9AB15 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,6 +301,7 @@
 			files = (
 				AFBCD5C91D84040500A9AB15 /* ViewController.swift in Sources */,
 				AFBCD5C71D84040500A9AB15 /* AppDelegate.swift in Sources */,
+				AFBC7FAC1D9668D2000C41CD /* MemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +526,7 @@
 				AFBCD5ED1D84040500A9AB15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AFBCD5EE1D84040500A9AB15 /* Build configuration list for PBXNativeTarget "stampTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +535,7 @@
 				AFBCD5F01D84040500A9AB15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AFBCD5F11D84040500A9AB15 /* Build configuration list for PBXNativeTarget "stampUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +544,7 @@
 				AFBCD5F31D84040500A9AB15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
